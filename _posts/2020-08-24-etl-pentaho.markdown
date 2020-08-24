@@ -17,14 +17,14 @@ This project describes the complete ETL process in Pentaho Data Integration. Fro
 The data source follows a relational model as shown in Fig2.
 
 <figure>
-	<img src="{{ '/assets/img/Staging.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/staging.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig2. - Relational Model of the Data Sources</figcaption>
 </figure>
 
 From this data source, the objective is to model a Data Warehouse (DW) as the scheme in Fig3:
 
 <figure>
-	<img src="{{ '/assets/img/Staging.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/dw_model.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig3. - Star Scheme of the Data WareHouse</figcaption>
 </figure>
 

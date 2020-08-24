@@ -10,7 +10,7 @@ description: This is a post description for a ETL process using the software Pen
 <figure>
 	<img src="{{ '/assets/img/bi_process.png' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig1. - BI Project Process</figcaption>
-    <figcaption>Font: https://medium.com/@elisowski/data-warehouse-implementation-tips-400c3bc981e7</figcaption>
+    <figcaption>Source: https://medium.com/@elisowski/data-warehouse-implementation-tips-400c3bc981e7</figcaption>
 </figure>
 
 This project describes the complete ETL process in Pentaho Data Integration. From excel tables and csv files as the data source, it will be modeled a **Data Warehouse (DW)**.

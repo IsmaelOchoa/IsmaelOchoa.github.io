@@ -7,7 +7,7 @@ title: Contact Long Haul
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">If you would like to contact me</p>
-    <p>You can also email me to ismael.ochoa.pro@gmail.com</p>
+    <p>You can also email me to <a href="mailto:ismael.ochoa.pro@gmail.com">ismael.ochoa.pro@gmail.com</a></p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>

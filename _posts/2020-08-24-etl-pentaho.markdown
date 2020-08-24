@@ -44,7 +44,7 @@ CREATE SCHEMA IF NOT EXISTS STAGE DEFAULT CHARACTER SET utf8;
 CREATE SCHEMA IF NOT EXISTS DW DEFAULT CHARACTER SET utf8;
 {% endhighlight %}
 
-First step is the **Extraction**, bringing the data from the sources to the staging area, which is a temporary area, necessary due to the heterogeneity existing in the information coming from these systems.
+First step is **Extraction**, bringing the data from the sources to the staging area, which is a temporary area, necessary due to the heterogeneity existing in the information coming from these systems.
 
 <figure>
 	<img src="{{ '/assets/img/Origem.PNG' | prepend: site.baseurl }}" alt=""> 
